@@ -22,11 +22,8 @@
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FCybriaTech%2FCybriaGG)
 
-## Active Links
-
-https://cygg.onrender.com/ - Official Link, May Shut Down At Times
-
-https://cygg.cybriatech.dev/ - Official CybriaTech Domain (Expansion)
+NOTE: I basically got this from CybriaGG and just added something to it. I used this repo and deployed it to Zeabur (thats a deploying site that you can use), and it (kinda) works. Sometimes the proxy detection detects it, but some other times the proxy detection doesn't detect anything.
+- P1xel10
 
 https://cybriagg.uk - Official Link
 
